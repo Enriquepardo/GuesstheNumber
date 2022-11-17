@@ -1,5 +1,5 @@
 from Modulo_menu import *
-from Modulo_juego import *      # me da fallo aqui 
+from Modulo_juego import *      
 from Modulo_puntuacion import *
 
 
